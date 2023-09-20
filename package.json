@@ -9,13 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@zerodevapp/social-wallet": "^1.0.0",
-    "@zerodevapp/wagmi": "^1.0.6",
-    "ethers": "^5.7.2",
+    "@zerodev/wagmi": "4.1.6",
     "next": "^13.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "wagmi": "~0.11.0"
+    "wagmi": "^1.4.2"
   },
   "devDependencies": {
     "@types/node": "^17.0.31",

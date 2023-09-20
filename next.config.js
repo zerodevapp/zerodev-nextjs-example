@@ -1,4 +1,4 @@
 module.exports = {
   reactStrictMode: true,
-  transpilePackages: ["@zerodevapp", "@web3"],
+  transpilePackages: ["@zerodev"],
 };
